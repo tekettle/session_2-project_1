@@ -1,3 +1,4 @@
+{
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -1070,4 +1071,5 @@ int main()
 	}
 	exit:
 	return 0;
+}
 }
